@@ -46,6 +46,8 @@ import org.compiere.util.SecureInterface;
 import org.compiere.util.Splash;
 import org.compiere.util.Util;
 
+/* comentario de fabricio */
+
 /**
  *  Adempiere Control Class
  *
